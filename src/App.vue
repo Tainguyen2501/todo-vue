@@ -29,7 +29,7 @@
               </div>
             </div>
             <!-- SORT : END -->
-jjjjjjjjjjjjjjjjj
+
             <!-- SEARCH : START -->
             <div class="col-12">
               <div class="input-group">
